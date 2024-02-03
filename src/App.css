@@ -318,6 +318,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 17px;
 }
 
+.wrap {
+  letter-spacing: 1px;
+}
 /************ Projects Css ************/
 .project {
   padding: 80px 0;
