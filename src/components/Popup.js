@@ -4,7 +4,7 @@ const Popup = ({ title, languages, imgUrl, onClose, des }) => {
   return (
     <div className="container popup">
       <div className="popup-inner">
-        <div>
+        <div className='popup-secondInner'>
         <div className="close-btn">
           <button onClick={onClose}><img src={close} alt="close" /></button>
           </div>

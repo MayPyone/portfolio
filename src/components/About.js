@@ -9,7 +9,7 @@ export const About=() =>{
          <div class="wrapper">
                 <div className="box">
          <p >I'm May Pyone, a passionate full-stack developer with a flair for collaborating 
-            on both soft-skill and technical projects with remote developers worldwide.
+            on both soft-skill and technical projects with remote developers from various countries.
              My journey in development has been marked by successful group projects, 
              and I'm eager to continue this journey, 
             collaborating on more exciting projects in the future.</p>
