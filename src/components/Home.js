@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Girl from "../assets/img/programmer.png";
 import navIcon1 from '../assets/img/nav-icon1.svg';
