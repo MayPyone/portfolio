@@ -6,7 +6,6 @@ import { Projects } from './components/Projects';
 import { About } from './components/About';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Contact } from './components/Contact';
-import { Popup } from './components/Popup';
 
 function App() {
   return (
