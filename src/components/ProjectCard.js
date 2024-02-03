@@ -1,8 +1,6 @@
 import { Col } from "react-bootstrap";
 import Card from 'react-bootstrap/Card';
-import { useState } from 'react';
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 export const ProjectCard = ({ title, language, imgUrl,onSeeMoreClick }) => {
 

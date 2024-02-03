@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row } from 'react-bootstrap';
 import { ProjectCard } from './ProjectCard';
 import Popup from './Popup';
 import born from '../assets/img/born.png';

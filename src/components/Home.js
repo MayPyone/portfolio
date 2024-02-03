@@ -1,12 +1,10 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Girl from "../assets/img/programmer.png";
-// import glitter from "../assets/img/glitter.mp4";
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/nav-icon2.svg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
 import navIcon4 from '../assets/img/github-icon.svg';
-import navIcon5 from '../assets/img/twitter.svg';
 
 export const Home = () => {
   const [loopNum, setLoopNum] = useState(0);
