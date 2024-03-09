@@ -3,6 +3,7 @@ import { Container, Row } from 'react-bootstrap';
 import { ProjectCard } from './ProjectCard';
 import Popup from './Popup';
 import born from '../assets/img/born.png';
+import expense from '../assets/img/budget.png';
 import calculator from '../assets/img/calculator.png';
 import TrackVisibility from 'react-on-screen';
 export const Projects = () => {
@@ -18,8 +19,8 @@ export const Projects = () => {
     {
       title: "Record your expense",
       language: ["Ruby","Ruby on Rails", "Postgresql"],
-      imgUrl: born,
-      description: "The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.",
+      imgUrl: expense,
+      description: "The Budget App is about building a mobile web application where users can manage their budget: They have a list of transactions associated with a category, so that users can see how much money they spent and on what.",
   
     },
     {
@@ -40,14 +41,14 @@ export const Projects = () => {
       title: "Math Magician",
       language: ["React","Redux", "JavaScript", "REST API"],
       imgUrl: calculator,
-      description: "The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.",
+      description: "Math-Magician is a wonderful project for calculation. Plus, users can see inspirational random quotes.",
   
     },
     {
       title: "Leader Board",
       language: ["HTML","CSS", "JavaScript"],
       imgUrl: born,
-      description: "The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.",
+      description: "The Leader app enables users to input player names and scores, providing a visual representation of player scores alongside their names on the board for comparison.",
   
     },
   ];
