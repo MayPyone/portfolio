@@ -18,7 +18,7 @@ export const Home = () => {
           <Col xs={12} md={6} xl={7}>
                 <h1><span className="greeting">Hi! I'm </span><span className="name">May Pyone</span>,<br></br> <span className="txt-rotate occ" ><span className="wrap">a  passionate  software  developer.</span></span></h1>
                   <p>
-                  I'm a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don't hesitate to contact me.
+                  I'm a software developer! I specialize in building products, features, and websites. Check out my portfolio and experience! If you're interested in my work and have a coding project in mind, don't hesitate to get in touch with me.
                    </p>
                 
                   <div className="social-icon">
