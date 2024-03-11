@@ -41,7 +41,7 @@ export const Projects = () => {
       title: "Motorcycle",
       language: ["Javascript","React","Redux","Ruby","Ruby on Rails", "Postgresql"],
       imgUrl: motorcycle,
-      description: "The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.",
+      description: "SwiftBike Reserves is an app for booking motorcycles. You can sign up and add your own motorcycles to the app. Once you're signed up, you can reserve motorcycles for specific dates and cities. This app is made using React and Rails, making it easy to use. It's a handy tool for people who want to book motorcycles.",
       live: "https://github.com/MayPyone/motorcycle-backend-final-capstone",
       source: "https://github.com/MayPyone/motorcycle-backend-final-capstone",
     },
