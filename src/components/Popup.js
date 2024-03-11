@@ -1,6 +1,6 @@
 import React from 'react';
 import close from '../assets/img/close.svg';
-const Popup = ({ title, languages, imgUrl, onClose, des }) => {
+const Popup = ({ title, languages, imgUrl, onClose, des, live, source }) => {
   return (
     <div className="container popup">
       <div className="popup-inner">
@@ -21,8 +21,8 @@ const Popup = ({ title, languages, imgUrl, onClose, des }) => {
     <div class="col-md-7 col-sm-12 des">
      <p>{des}</p>
      <div className='popup-btn'>
-      <button className="">See live</button>
-      <button className="">See source</button>
+      <button className=""> <a href={live}>See live</a></button>
+      <button className=""><a href={source}>See source</a></button>
      </div>
     </div>
   </div>
