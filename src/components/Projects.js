@@ -38,7 +38,7 @@ export const Projects = () => {
       source: "https://github.com/MayPyone/space-travelers-hub",
     },
     {
-      title: "Motorcycle",
+      title: " SwiftBike Reserves",
       language: ["Javascript","React","Redux","Ruby","Ruby on Rails", "Postgresql"],
       imgUrl: motorcycle,
       description: "SwiftBike Reserves is an app for booking motorcycles. You can sign up and add your own motorcycles to the app. Once you're signed up, you can reserve motorcycles for specific dates and cities. This app is made using React and Rails, making it easy to use. It's a handy tool for people who want to book motorcycles.",
