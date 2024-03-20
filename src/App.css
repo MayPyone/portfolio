@@ -996,6 +996,10 @@ nav.navbar.hide-navbar {
   padding-top: 1%;
 }
 
+.close-btn  button{
+  overflow-y: hidden;
+}
+
 .des {
   align-items: left;
   padding: 0;
