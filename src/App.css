@@ -1151,11 +1151,6 @@ nav.navbar.hide-navbar {
     padding: 0.5% 1%;
     font-size: 10px;
   }
-  
-  .popup {
-    background-color: pink;
-
-  }
 
   .popup-inner {
     height: 90%;
