@@ -26,7 +26,7 @@ export const Projects = () => {
       language: ["Ruby","Ruby on Rails", "Postgresql"],
       imgUrl: expense,
       description: "The Budget App is about building a mobile web application where users can manage their budget: They have a list of transactions associated with a category, so that users can see how much money they spent and on what.",
-      live: "https://www.loom.com/share/fe30a9a6e4524ad2b729f509676f9fb0?sid=527c6017-4bdb-4e61-ba11-b1eb5ec0f239",
+      live: "https://budget-tracker-for-you.onrender.com",
       source: "https://github.com/MayPyone/Budget",
     },
     {
