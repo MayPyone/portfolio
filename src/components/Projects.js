@@ -17,7 +17,7 @@ export const Projects = () => {
       title: "Born Your Appetite!",
       language: ["React","Redux", "JavaScript", "REST API"],
       imgUrl: born,
-      description: "The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.",
+      description: "The app can showcase various types of cuisine from around the world. Users have the option to view the details of each recipe.",
       live: "https://www.loom.com/share/d10cbf76809f4278bdc4ebe3e120095d?sid=45e62ba3-c565-47bd-837e-c3e9f17fc87e",
       source: "https://github.com/MayPyone/React_Capstone_Project",
     },

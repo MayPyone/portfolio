@@ -15,10 +15,10 @@ export const Home = () => {
         <source src={glitter} type="video/mp4" />
       </video> */}
         <Row className="aligh-items-center">
-          <Col xs={12} md={6} xl={7}>
+          <Col xs={12} md={7} xl={7}>
                 <h1><span className="greeting">Hi! I'm </span><span className="name">May Pyone</span>,<br></br> <span className="txt-rotate occ" ><span className="wrap">a  passionate  software  developer.</span></span></h1>
                   <p>
-                  I'm a software developer! I specialize in building products, features, and websites. Check out my portfolio and experience! If you're interested in my work and have a coding project in mind, don't hesitate to get in touch with me.
+                  I specialize in building products, features, and websites. Check out my portfolio and experience! If you're interested in my work and have a coding project in mind, don't hesitate to get in touch with me.
                    </p>
                 
                   <div className="social-icon">
@@ -32,7 +32,7 @@ export const Home = () => {
               
             
           </Col>
-          <Col xs={12} md={6} xl={5}>
+          <Col xs={12} md={5} xl={5}>
           
              
                
