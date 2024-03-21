@@ -18,7 +18,7 @@ export const Projects = () => {
       language: ["React","Redux", "JavaScript", "REST API"],
       imgUrl: born,
       description: "The app can showcase various types of cuisine from around the world. Users have the option to view the details of each recipe.",
-      live: "https://www.loom.com/share/d10cbf76809f4278bdc4ebe3e120095d?sid=45e62ba3-c565-47bd-837e-c3e9f17fc87e",
+      live: "https://bornyourappetite.netlify.app/",
       source: "https://github.com/MayPyone/React_Capstone_Project",
     },
     {
@@ -34,7 +34,7 @@ export const Projects = () => {
       language: ["Javascript","React", "REST API"],
       imgUrl: space,
       description: "Space Travelers' Hub is a website that will be working with the real live data from the SpaceX API for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.",
-      live: "https://dev--spacetravellerteam.netlify.app/",
+      live: "https://spacetravellerteam.netlify.app",
       source: "https://github.com/MayPyone/space-travelers-hub",
     },
     {

@@ -23,11 +23,10 @@ export const Home = () => {
                 
                   <div className="social-icon">
                     <p>Let's Connect</p>
-                <a href="https://github.com/MayPyone"><img src={navIcon4} alt="github" /></a>
-                <a href="https://www.linkedin.com/in/maypyone/"><img src={navIcon1} alt="linkedin" /></a>
-                <a href="https://www.facebook.com/profile.php?id=100026679546837&mibextid=ZbWKwL"><img src={navIcon2} alt="facebook" /></a>
-                {/* <a href="https://twitter.com/maypyone015"><img src={navIcon5} alt="twitter" /></a> */}
-                <a href="https://www.instagram.com/maypyone2002/"><img src={navIcon3} alt="instagram" /></a>
+                <a href="https://github.com/MayPyone" target="_blank"><img src={navIcon4} alt="github" /></a>
+                <a href="https://www.linkedin.com/in/maypyone/" target="_blank"><img src={navIcon1} alt="linkedin" /></a>
+                <a href="https://www.facebook.com/profile.php?id=100026679546837&mibextid=ZbWKwL" target="_blank"><img src={navIcon2} alt="facebook" /></a>
+                <a href="https://www.instagram.com/maypyone2002/" target="_blank"><img src={navIcon3} alt="instagram" /></a>
               </div>
               
             
