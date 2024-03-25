@@ -7,7 +7,7 @@ import expense from '../assets/img/budget.png';
 import space from '../assets/img/space.png'
 import calculator from '../assets/img/calculator.png';
 import leader from '../assets/img/leader.png';
-import motorcycle from '../assets/img/motorcycle.png';
+import env from '../assets/img/environment.png';
 import TrackVisibility from 'react-on-screen';
 export const Projects = () => {
   const [showPopup, setShowPopup] = useState(false);
@@ -38,12 +38,12 @@ export const Projects = () => {
       source: "https://github.com/MayPyone/space-travelers-hub",
     },
     {
-      title: " SwiftBike Reserves",
-      language: ["Javascript","React","Redux","Ruby","Ruby on Rails", "Postgresql"],
-      imgUrl: motorcycle,
-      description: "SwiftBike Reserves is an app for booking motorcycles. You can sign up and add your own motorcycles to the app. Once you're signed up, you can reserve motorcycles for specific dates and cities. This app is made using React and Rails, making it easy to use. It's a handy tool for people who want to book motorcycles.",
-      live: "https://github.com/MayPyone/motorcycle-backend-final-capstone",
-      source: "https://github.com/MayPyone/motorcycle-backend-final-capstone",
+      title: " Environmental Development",
+      language: ["Javascript","HTML", "CSS"],
+      imgUrl: env,
+      description: "Users can see information about the Environmental Development conference, such as the speakers, location, and sponsor companies.",
+      live: "https://maypyone.github.io/Environmental_Development/",
+      source: "https://maypyone.github.io/Environmental_Development/",
     },
     {
       title: "Math Magician",
